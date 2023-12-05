@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webprogramming_cw8_react/static/css/main.2bfa0dc0.css",
+    "main.js": "/webprogramming_cw8_react/static/js/main.6f886765.js",
+    "static/js/787.d4aba7ab.chunk.js": "/webprogramming_cw8_react/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/webprogramming_cw8_react/index.html",
+    "main.2bfa0dc0.css.map": "/webprogramming_cw8_react/static/css/main.2bfa0dc0.css.map",
+    "main.6f886765.js.map": "/webprogramming_cw8_react/static/js/main.6f886765.js.map",
+    "787.d4aba7ab.chunk.js.map": "/webprogramming_cw8_react/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bfa0dc0.css",
+    "static/js/main.6f886765.js"
+  ]
+}
